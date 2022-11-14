@@ -1,5 +1,3 @@
-# Fuck Off
+# Assignments for cs50
 
-## this is my fucking code.
-
-#### Do not steal.
+## Need to rearrange and clean-up
